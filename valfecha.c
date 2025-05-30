@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*Autor: Angel Pacheco*/
+/*Seccion: 3*/
+/*Fecha: 25 de mayo de 2025*/
 int main()
 {
    int dia = 0, mes = 0, ano = 0;
