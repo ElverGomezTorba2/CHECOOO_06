@@ -1,5 +1,8 @@
 # include <stdio.h>
 
+/*Autor: Angel Pacheco*/
+/*Seccion: 3*/
+/*Fecha: 28 de mayo de 2025*/
 int main()
 {
     int dia, mes, ano, hora_inicio, min_inicio, hora_fin, min_final, total_min, total_horas;
