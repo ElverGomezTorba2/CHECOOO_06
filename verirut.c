@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-/*Autor: Angel Pacheco Rebolledo*/
+/*Autor: Angel Pacheco*/
 /*Seccion: numero 3*/
 /*29 de mayo de 2025*/
 
