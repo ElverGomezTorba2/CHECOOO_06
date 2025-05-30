@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Autor: Angel Pacheco*/
+/*Seccion:3*/
 int main()
 {
     int nota, sumas = 0, max = -1, min = 8, contador = 0;
